@@ -2,7 +2,7 @@
 
 ## Contáctame
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/cimar-rodrigo-morales)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rdo15072001@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdo15072001@gmail.com?subject=Contacto%20desarrollador&body=Hola%20Cimar%20Rodrigo,%20me%20interesa%20trabajar%20contigo.%20Quisiera%20hablar%20más%20sobre%20tus%20servicios.)
 
 ## Skills
 
