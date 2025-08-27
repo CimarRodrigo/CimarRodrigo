@@ -1,4 +1,6 @@
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVheWN3ejRhbzcxMTltOGJld29ydHdkcnBwMXdwb25lc2NpeHRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/> ¡Hola 👋 soy Cimar Rodrigo!
+# ¡Hola 👋 soy Cimar Rodrigo!
+
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVheWN3ejRhbzcxMTltOGJld29ydHdkcnBwMXdwb25lc2NpeHRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="400"/>
 
 ## Contáctame
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cimar-rodrigo-morales)
