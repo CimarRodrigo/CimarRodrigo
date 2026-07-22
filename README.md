@@ -100,5 +100,3 @@ Happy to walk through architecture and decisions in a conversation.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdo15072001@gmail.com?subject=Backend%20opportunity)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=cimarrodrigo&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
